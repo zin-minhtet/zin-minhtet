@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zin-minhtet
+- 👋 Hi, I’m Zin Min Htet
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Python
 
