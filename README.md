@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zin Min Htet
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Web Development
 
 <!---
 zin-minhtet/zin-minhtet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
